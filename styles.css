@@ -9,6 +9,7 @@
    height: 100vh;
    padding: 100px;
    font-family: 'Josefin Sans', sans-serif;
+  
    
     
 }
@@ -46,11 +47,13 @@
     
 }
 .box6{
-    width: 39vw;
+    width: 40vw;
     height: 100vh;
     float: right;
-    position: relative;
-    bottom: 685px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    display: inline;
 }
 .box7{
     position: relative;
